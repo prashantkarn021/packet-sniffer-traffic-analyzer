@@ -48,7 +48,7 @@ That helped me understand something I hadn't really thought about before, a pack
 Clone the repository and create a virtual environment:
 
 ```bash
-git clone [still need to push and upload repo URL]
+git clone [github.com/prashantkarn021/packet-sniffer-traffic-analyzer]
 cd packet_sniffer
 
 python3 -m venv venv
